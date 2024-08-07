@@ -14,6 +14,9 @@ This repository is designed to help you understand and master various DBMS query
 - **Stored Procedures**: Writing and using stored procedures.
 - **Triggers**: Understanding and creating triggers.
 - **Database Design**: Best practices for designing a relational database.
+- **DML Commands**: Data Manipulation Language commands like SELECT, INSERT, UPDATE, DELETE.
+- **DDL Commands**: Data Definition Language commands like CREATE, ALTER, DROP, TRUNCATE.
+- **DCL Commands**: Data Control Language commands like GRANT, REVOKE.
 
 
 ## Contact
