@@ -10,6 +10,7 @@ This repository is designed to help you understand and master various DBMS query
 
 - **SQL Basics**: Introduction to SQL, including SELECT, INSERT, UPDATE, DELETE statements.
 - **Advanced SQL**: JOINs, subqueries, indexes, views, and transactions.
+- **JOINS**: Understanding different types of JOINs (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, CROSS JOIN, SELF JOIN) 
 - **Normalization**: Principles of database normalization and normal forms.
 - **Stored Procedures**: Writing and using stored procedures.
 - **Triggers**: Understanding and creating triggers.
